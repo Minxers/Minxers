@@ -1,6 +1,6 @@
 # ¡Hola! 👋 
 
-## Technical Writer | Gaming Enthusiast | Perpetual Learner
+## Technical Writer | Gaming Enthusiast 
 
 Welcome to my pixelated realm of games and documentation! 💕 
 
