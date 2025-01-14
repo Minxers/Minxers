@@ -17,7 +17,6 @@ You can find me battling through various virtual worlds:
 - Surviving with questionable skills in Lethal Company
 - Building gorgeous empires in Valheim
 - Stickyfying enemies in Halo Infinite
-- Team slaying in Left 4 Dead 2 
 
 ### 📚 Current Learning Journey
 I'm currently exploring the world of software documentation and programming, adding new tools to my technical writing toolkit. Because in both gaming and documentation, there's always another level to reach! 
