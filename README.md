@@ -22,4 +22,4 @@ You can find me battling through various virtual worlds:
 I'm currently exploring the world of software documentation and programming, adding new tools to my technical writing toolkit. Because in both gaming and documentation, there's always another level to reach! 
 
 ---
-*"Set with a set of questionable gaming skills, but unquestionable documentation abilities!"* ✨
+*"Fixed with a set of questionable gaming skills, but unquestionable documentation abilities!"* ✨
