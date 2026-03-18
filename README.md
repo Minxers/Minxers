@@ -35,4 +35,4 @@ Professional writing samples showcasing:
 [LinkedIn](https://linkedin.com/in/paola-fox) | [Portfolio](https://github.com/Minxers/technical-writing-portfolio) | [Email](mailto:paoladenisefox@gmail.com)
 
 ---
-*"Fixed with a set of questionable gaming skills, but unquestionable documentation abilities!"* ✨
+*Fixed with a set of questionable gaming skills, but unquestionable documentation abilities!* ✨
