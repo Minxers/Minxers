@@ -14,13 +14,13 @@ I'm a passionate technical writer with a love for making complex information acc
 - Leverage modern tools: Markdown, Git, AI-assisted documentation
 
 ### 🎮 When I'm Not Writing
-You can find me battling through various virtual worlds:
 - Surviving with questionable skills in Lethal Company
 - Building gorgeous empires in Valheim
 - Exploring new documentation tools and technologies
+- Petting Alto, my Aussie doggo, who has done nothing wrong ever in his entire life
 
 ### 📚 Current Learning Journey
-I'm currently exploring the world of software documentation and programming, adding new tools to my technical writing toolkit. Because as is in both documentation and gaming, there's always another level to reach! 
+I'm currently exploring the world of software documentation, mastering modern documentation platforms and workflows. Strengthening my programming knowledge for technical writing, because as it is in both documentation and gaming, there's always another level to reach! 
 
 ## 📚 Featured Work
 
@@ -32,7 +32,7 @@ Professional writing samples showcasing:
 - Enterprise Hardware Documentation - Hot Plug Support Procedures
 
 ## Let's Connect
-[LinkedIn](linkedin.com/in/paola-fox) | [Email](mailto:paoladenisefox@gmail.com)
+[LinkedIn](https://linkedin.com/in/paola-fox) | [Portfolio](https://github.com/Minxers/technical-writing-portfolio) | [Email](mailto:paoladenisefox@gmail.com)
 
 ---
 *"Fixed with a set of questionable gaming skills, but unquestionable documentation abilities!"* ✨
