@@ -1,6 +1,6 @@
 # ¡Hola! 👋 
 
-## Technical Writer 
+## Technical Writer | Documentation Specialist
 
 Welcome to my pixelated realm of games and documentation! 💕 
 
@@ -17,15 +17,19 @@ I'm a passionate technical writer with a love for making complex information acc
 You can find me battling through various virtual worlds:
 - Surviving with questionable skills in Lethal Company
 - Building gorgeous empires in Valheim
-- Stickyfying enemies in Halo Infinite
+- Exploring new documentation tools and technologies
 
 ### 📚 Current Learning Journey
 I'm currently exploring the world of software documentation and programming, adding new tools to my technical writing toolkit. Because as is in both documentation and gaming, there's always another level to reach! 
 
-## Featured Work
-- 📚 [Streamer.bot Documentation](link) - Comprehensive automation guides
-- 📖 [Technical Writing Journey](link) - Learning roadmap and resources
-- 🔧 [Writing Samples](link to portfolio folder)
+## 📚 Featured Work
+
+### [Technical Writing Portfolio](https://github.com/Minxers/technical-writing-portfolio)
+Professional writing samples showcasing:
+- API Documentation - User Management API Quick Start Guide
+- Product Briefs - WD_BLACK™ SN750 NVMe™ SSD
+- User Guides - iXpand™ Drive Application & RapidFlex™ A1000
+- Enterprise Hardware Documentation - Hot Plug Support Procedures
 
 ## Let's Connect
 [LinkedIn](linkedin.com/in/paola-fox) | [Email](mailto:paoladenisefox@gmail.com)
